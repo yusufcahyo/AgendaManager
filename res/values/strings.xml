@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AM</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_kontak">Kontak</string>
+    <string name="title_activity_list_task">ListTask</string>
+    <string name="title_activity_form_event">FormEvent</string>
+    <string name="title_activity_form_task">FormTask</string>
+    <string name="title_activity_form_kontak">FormKontak</string>
+    <string name="title_activity_harian">Harian</string>
+    <string name="title_activity_rincian">Rincian</string>
+    <string name="title_activity_undangan">Undangan</string>
+
+</resources>
